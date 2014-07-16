@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <name>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      Copyright &#169; 2009 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc.
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      NanumGothicCoding
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Bold
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      NanumGothicCoding-Bold
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      NanumGothicCoding-Bold
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 2.000;PS 1;hotconv 1.0.49;makeotf.lib2.0.14853
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      NanumGothicCoding-Bold
+    </namerecord>
+    <namerecord nameID="7" platformID="3" platEncID="1" langID="0x409">
+      NanumGothicCoding-Bold is a registered trademark of NHN Corporation.
+    </namerecord>
+    <namerecord nameID="8" platformID="3" platEncID="1" langID="0x409">
+      NHN Corporation
+    </namerecord>
+    <namerecord nameID="9" platformID="3" platEncID="1" langID="0x409">
+      Kwon Bruce; Nicolas Noh; Sung-woo Choi; Go-un Cha; Soo-hyun Park;
+    </namerecord>
+    <namerecord nameID="11" platformID="3" platEncID="1" langID="0x409">
+      http://www.nhncorp.com
+    </namerecord>
+    <namerecord nameID="12" platformID="3" platEncID="1" langID="0x409">
+      http://www.sandoll.co.kr
+    </namerecord>
+    <namerecord nameID="13" platformID="3" platEncID="1" langID="0x409">
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    </namerecord>
+    <namerecord nameID="14" platformID="3" platEncID="1" langID="0x409">
+      http://dev.naver.com/wiki/nanumfont/index.php/OpenFontLicense
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x412">
+      Copyright &#169; 2009 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc.
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x412">
+      &#45208;&#45588;&#44256;&#46357;&#53076;&#46377;
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x412">
+      Bold
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x412">
+      NanumGothicCoding-Bold
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x412">
+      &#45208;&#45588;&#44256;&#46357;&#53076;&#46377;-Bold
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x412">
+      Version 2.000;PS 1;hotconv 1.0.49;makeotf.lib2.0.14853
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x412">
+      NanumGothicCoding-Bold
+    </namerecord>
+    <namerecord nameID="9" platformID="3" platEncID="1" langID="0x412">
+      &#44428;&#44221;&#49437;; &#45432;&#50689;&#44428;; &#52572;&#49457;&#50864;; &#52264;&#44256;&#50868;; &#48149;&#49688;&#54788;;
+    </namerecord>
+  </name>
+
+</ttFont>
