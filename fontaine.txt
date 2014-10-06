@@ -1,0 +1,90 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: T)
+    Sub family: Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright © 2009 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc.
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://dev.naver.com/wiki/nanumfont/index.php/OpenFontLicense
+    Version: Version 2.000;PS 1;hotconv 1.0.49;makeotf.lib2.0.14853
+    Vendor: NHN Corporation
+    Vendor url: http://www.nhncorp.com
+    Designer: 권경석; 노영권; 최성우; 차고운; 박수현;
+    Designer url: http://www.sandoll.co.kr
+    Glyph count: 20338
+    Character count: 12477
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 68
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: fragmentary
+          Percent coverage: 66
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: partial
+          Percent coverage: 84
+  Font:
+    Common name: T)
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright © 2009 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc.
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://dev.naver.com/wiki/nanumfont/index.php/OpenFontLicense
+    Version: Version 2.000;PS 1;hotconv 1.0.49;makeotf.lib2.0.14853
+    Vendor: NHN Corporation
+    Vendor url: http://www.nhncorp.com
+    Designer: 권경석; 노영권; 최성우; 차고운; 박수현;
+    Designer url: http://www.sandoll.co.kr
+    Glyph count: 20024
+    Character count: 12477
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 68
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: fragmentary
+          Percent coverage: 66
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: partial
+          Percent coverage: 84
